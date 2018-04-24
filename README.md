@@ -1,0 +1,2 @@
+# AutoSqlInject
+sql map automático
